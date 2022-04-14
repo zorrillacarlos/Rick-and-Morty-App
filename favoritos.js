@@ -1,7 +1,10 @@
 const contenido = document.querySelector('.contenido')
 const favoritoContenido = document.querySelector('.favoritos')
 
+//declarando el arreglo para almacenar datosTabla.results
 let arregloPersonajes = []
+
+// Declarando el arreglo para favoritos
 let favorito = []
 
 // Petición de la tabla
